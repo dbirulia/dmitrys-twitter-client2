@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="560dpi"
+    format="7"
+    timestamp="127691433653712"
+    token="-8457515282081343578" >
+
+    <task
+        name="javac"
+        duration="699" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="9" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/Users/admin/CodePath/dmitry-twitter-client/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+        type="DEX" />
+
+    <build timestamp="126459591536888" >
+        <artifact
+            location="/Users/admin/CodePath/dmitry-twitter-client/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="126895976828599" >
+        <artifact
+            location="/Users/admin/CodePath/dmitry-twitter-client/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="127691433653712" >
+        <artifact
+            location="/Users/admin/CodePath/dmitry-twitter-client/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

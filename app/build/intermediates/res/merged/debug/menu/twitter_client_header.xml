@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".TimeLineActivity">
+
+    <item
+        android:id="@+id/miActionProgress"
+        android:title="Loading..."
+        android:visible="false"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        app:actionLayout="@layout/action_view_progress" />
+
+    <item android:id="@+id/messages"
+        android:orderInCategory="5"
+        android:title="@string/messages"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/messages"
+        android:onClick="showMessages"
+        />
+    <item android:id="@+id/compose_tweet"
+        android:orderInCategory="5"
+        android:title="@string/compose_tweet"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/compose2"
+        android:onClick="showPostTweetFragment"
+        />
+    <item android:id="@+id/profile"
+        android:orderInCategory="6"
+        android:title="@string/profile"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/profile"
+        android:onClick="showUserProfile"
+        />
+
+</menu>
