@@ -22,7 +22,7 @@
         android:orderInCategory="5"
         android:title="@string/compose_tweet"
         app:showAsAction="ifRoom"
-        android:icon="@drawable/compose2"
+        android:icon="@drawable/compose"
         android:onClick="showPostTweetFragment"
         />
     <item android:id="@+id/profile"

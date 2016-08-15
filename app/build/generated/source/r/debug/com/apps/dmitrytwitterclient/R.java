@@ -2748,7 +2748,7 @@ containing a value of this type.
         public static final int abc_textfield_search_material=0x7f02004b;
         public static final int background_tab=0x7f02004c;
         public static final int button_register_twitter=0x7f02004d;
-        public static final int compose2=0x7f02004e;
+        public static final int compose =0x7f02004e;
         public static final int compose_tweet=0x7f02004f;
         public static final int cross=0x7f020050;
         public static final int design_fab_background=0x7f020051;

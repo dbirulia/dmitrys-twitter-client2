@@ -2,5 +2,9 @@
     {
         "merged": "/Users/admin/CodePath/dmitry-twitter-client/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
         "source": "/Users/admin/CodePath/dmitry-twitter-client/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/admin/CodePath/dmitry-twitter-client2/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/admin/CodePath/dmitry-twitter-client2/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     }
 ]

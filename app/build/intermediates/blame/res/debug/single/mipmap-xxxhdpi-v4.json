@@ -2,5 +2,9 @@
     {
         "merged": "/Users/admin/CodePath/dmitry-twitter-client/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_twitter.png",
         "source": "/Users/admin/CodePath/dmitry-twitter-client/app/src/main/res/mipmap-xxxhdpi/ic_twitter.png"
+    },
+    {
+        "merged": "/Users/admin/CodePath/dmitry-twitter-client2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_twitter.png",
+        "source": "/Users/admin/CodePath/dmitry-twitter-client2/app/src/main/res/mipmap-xxxhdpi/ic_twitter.png"
     }
 ]

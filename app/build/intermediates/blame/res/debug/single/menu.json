@@ -4,6 +4,14 @@
         "source": "/Users/admin/CodePath/dmitry-twitter-client/app/src/main/res/menu/twitter_client_header.xml"
     },
     {
+        "merged": "/Users/admin/CodePath/dmitry-twitter-client2/app/build/intermediates/res/merged/debug/menu/login.xml",
+        "source": "/Users/admin/CodePath/dmitry-twitter-client2/app/src/main/res/menu/login.xml"
+    },
+    {
+        "merged": "/Users/admin/CodePath/dmitry-twitter-client2/app/build/intermediates/res/merged/debug/menu/twitter_client_header.xml",
+        "source": "/Users/admin/CodePath/dmitry-twitter-client2/app/src/main/res/menu/twitter_client_header.xml"
+    },
+    {
         "merged": "/Users/admin/CodePath/dmitry-twitter-client/app/build/intermediates/res/merged/debug/menu/login.xml",
         "source": "/Users/admin/CodePath/dmitry-twitter-client/app/src/main/res/menu/login.xml"
     }
